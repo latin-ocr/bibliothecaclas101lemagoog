@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas101lemagoog_0059.png"; bbox 0 0 2838 4900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 25 1649 1145 2132">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 24 1649 1145 2210">
+     <span class='ocr_line' id='line_1_1' title="bbox 25 1649 1013 1852; baseline 0 -80"><span class='ocrx_word' id='word_1_1' title='bbox 25 1795 26 1852; x_wconf 41' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_2' title='bbox 201 1652 267 1772; x_wconf 91' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 307 1649 604 1774; x_wconf 81' lang='lat' dir='ltr'><strong>ANNAEI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 643 1649 1013 1775; x_wconf 84' lang='lat' dir='ltr'>SENECAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 96 1949 1145 2132; baseline -0.001 -33.064"><span class='ocrx_word' id='word_1_5' title='bbox 96 1953 214 2132; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 277 1949 1145 2125; x_wconf 62' lang='lat' dir='ltr'><strong>coNsohATloNE,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 434 2481 955 2619">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 434 2481 955 2619">
+     <span class='ocr_line' id='line_1_3' title="bbox 434 2481 955 2619; baseline -0.008 0"><span class='ocrx_word' id='word_1_7' title='bbox 434 2529 603 2619; x_wconf 72' lang='lat' dir='ltr'><strong>um</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 627 2527 792 2616; x_wconf 76' lang='lat' dir='ltr'><strong>UNus.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 952 2481 955 2494; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1424 4900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1424 4900">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1424 4900; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1424 4900; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
